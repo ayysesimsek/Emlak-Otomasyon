@@ -1,0 +1,2 @@
+﻿6,6,Osmancik,0,27.02.2019 00:00:00,True,5,Dubleks,0,0,Kiralık
+6,6,Dortdivan,0,8.01.2019 00:00:00,True,8,Daire,0,0,Kiralık

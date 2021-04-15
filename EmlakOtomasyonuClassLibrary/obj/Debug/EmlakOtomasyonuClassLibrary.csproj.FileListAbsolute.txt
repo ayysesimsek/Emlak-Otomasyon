@@ -1,0 +1,16 @@
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\bin\Debug\EmlakOtomasyonuClassLibrary.exe.config
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\bin\Debug\EmlakOtomasyonuClassLibrary.exe
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\bin\Debug\EmlakOtomasyonuClassLibrary.pdb
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\bin\Debug\EmlakClassLibrary.dll
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\bin\Debug\EmlakClassLibrary.pdb
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\obj\Debug\EmlakOtomasyonuClassLibrary.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\obj\Debug\EmlakOtomasyonuClassLibrary.Login.resources
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\obj\Debug\EmlakOtomasyonuClassLibrary.Properties.Resources.resources
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\obj\Debug\EmlakOtomasyonuClassLibrary.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\obj\Debug\EmlakOtomasyonuClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\obj\Debug\EmlakOtomasyonuClassLibrary.csproj.CopyComplete
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\obj\Debug\EmlakOtomasyonuClassLibrary.exe
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\obj\Debug\EmlakOtomasyonuClassLibrary.pdb
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\obj\Debug\EmlakOtomasyonuClassLibrary.AddForm.resources
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\obj\Debug\EmlakOtomasyonuClassLibrary.MainPage.resources
+C:\Users\Mrs Engineer\source\repos\EmlakOtomasyonuClassLibrary\obj\Debug\EmlakOtomasyonuClassLibrary.QuestionForm.resources
